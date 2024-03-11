@@ -1,0 +1,27 @@
+<patients>
+  <patient>
+    <id>1</id>
+    <name>Sarah Smith</name>
+    <dental_condition>cavities</dental_condition>
+  </patient>
+  <patient>
+    <id>2</id>
+    <name>Blake Johnson</name>
+    <dental_condition>gingivitis</dental_condition>
+  </patient>
+  <patient>
+    <id>3</id>
+    <name>Alex Croft</name>
+    <dental_condition>tooth abscess</dental_condition>
+  </patient>
+  <patient>
+    <id>4</id>
+    <name>Clara Rose</name>
+    <dental_condition>tooth sensitivity</dental_condition>
+  </patient>
+  <patient>
+    <id>5</id>
+    <name>Blake Ross</name>
+    <dental_condition>braces</dental_condition>
+  </patient>
+</patients>
